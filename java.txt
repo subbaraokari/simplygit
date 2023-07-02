@@ -1,1 +1,2 @@
 java is a OOP Language
+java is used in web applications
